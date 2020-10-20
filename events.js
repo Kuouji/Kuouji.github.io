@@ -32,7 +32,7 @@ btn1.onclick = () => {
 }
 
 
-btn1.onclick = () => {
+btn2.onclick = () => {
     container.remove()
     body.appendChild(createContainer())
 }
